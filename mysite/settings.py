@@ -25,7 +25,7 @@ SECRET_KEY = 'rzaeks2x8##7=ftgw08u&cgh+!(wm-&qwmj0xo(0^!(y!#j4iz'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['magdamdjango.pythonanywhere.com', '127.0.0.1']
 
 
 # Application definition
